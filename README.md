@@ -8,8 +8,6 @@ MCP demo apps before MCP OAuth
 
 * npm 12.0.2
 * node v26.7.0
-* Keycloak 26.7.1
-* OpenJDK 25+
 
 ### Install
 
