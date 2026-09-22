@@ -14,3 +14,23 @@ MCP demo apps before MCP OAuth
 ```shell
 npm i
 ```
+
+### Start the MCP Server and Client
+
+#### stdio
+
+```shell
+npm run start:stdio:client
+```
+
+#### HTTP with SSE(Server-Sent Events)
+
+```shell
+# Terminal 1
+npm run start:sse:server
+```
+
+```shell
+# Terminal 2
+npm run start:sse:client
+```
