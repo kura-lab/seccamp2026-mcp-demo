@@ -34,3 +34,15 @@ npm run start:sse:server
 # Terminal 2
 npm run start:sse:client
 ```
+
+#### Streamable HTTP
+
+```shell
+# Terminal 1
+npm run start:streamable:server
+```
+
+```shell
+# Terminal 2
+npm run start:streamable:client
+```

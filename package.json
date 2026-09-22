@@ -7,7 +7,9 @@
     "start:stdio:server": "npx tsx src/stdio/server.ts",
     "start:stdio:client": "npx tsx src/stdio/client.ts",
     "start:sse:server": "npx tsx src/sse/server.ts",
-    "start:sse:client": "npx tsx src/sse/client.ts"
+    "start:sse:client": "npx tsx src/sse/client.ts",
+    "start:streamable:server": "npx tsx src/streamable/server.ts",
+    "start:streamable:client": "npx tsx src/streamable/client.ts"
   },
   "keywords": [],
   "type": "module",
