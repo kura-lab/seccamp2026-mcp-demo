@@ -6,8 +6,8 @@
   "scripts": {
     "start:stdio:server": "npx tsx src/stdio/server.ts",
     "start:stdio:client": "npx tsx src/stdio/client.ts",
-    "start:http:server": "npx tsx src/http/server.ts",
-    "start:http:client": "npx tsx src/http/client.ts"
+    "start:sse:server": "npx tsx src/sse/server.ts",
+    "start:sse:client": "npx tsx src/sse/client.ts"
   },
   "keywords": [],
   "type": "module",
