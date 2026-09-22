@@ -9,7 +9,7 @@ app.use(cors());
 
 // MCP サーバーの初期化
 const server = new McpServer({
-  name: "sample-http-mcp-server",
+  name: "sample-server-sent-events-mcp-server",
   version: "1.0.0",
 });
 
